@@ -1,4 +1,4 @@
-# RBB Street Music App
+# SoundSpotter by rbb
 
 ## Projektbeschreibung
 
@@ -9,7 +9,7 @@ Das Kooperationsprojekt "X-Media Music Storytelling Plattform", entwickelt in Zu
 | :---------------- | :------: | ----: |
 | Justyna Nowicka | s85980@bht-berlin.de | 925841 |
 | Marcel Kaschig  | s86131@bht-berlin.de | 926775 |
-| Sarah Moeller   |  s53097@bht-berlin.de | 916832 |
+| **Sarah Moeller**   |  **s53097@bht-berlin.de** | **916832** |
 | Miro Konieczna |  s85930@bht-berlin.de   | 927234 |
 | Andreas Schaaf |  s86592@bht-berlin.de   | 926137 |
 | Rabia Saglam |  s87774@bht-berlin.de   | 933422 |
